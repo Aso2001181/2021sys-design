@@ -7,7 +7,7 @@ if(体力 <= 20)than(ture)
 else
 :頑張ってレベル上げる;
 endif
-:
+
 end
 @enduml
 ```uml
