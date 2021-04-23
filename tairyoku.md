@@ -1,7 +1,7 @@
 ```uml
 @startuml
 start
-:体力 = 20
+:体力 = 10
 if(体力 <= 20)than(ture)
 :宿屋に泊まる
 else
