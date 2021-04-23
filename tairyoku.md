@@ -1,11 +1,11 @@
 ```uml
 @startuml
 start
-:体力 = 10
+:体力 = 10;
 if(体力 <= 20)than(ture)
-:宿屋に泊まる
+:宿屋に泊まる;
 else
-:頑張ってレベル上げる
+:頑張ってレベル上げる;
 endif
 :
 end
